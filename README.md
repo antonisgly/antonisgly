@@ -4,7 +4,6 @@ I am Antonis Glykofridis, a Frontend Software Engineer from Athens, Greece.
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working as a Frontend Software Engineer for [Skroutz](https://www.skroutz.gr/)
 - 🌱 I’m currently taking a look at CSS4 and Hotwire
-- 📫 Send me an email at antonisgly@gmail.com or DM me on [LinkedIn](https://www.linkedin.com/in/antonisgly)
 
 <!--
 **antonisgly/antonisgly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
